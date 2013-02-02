@@ -1,0 +1,10 @@
+{
+  "name": "PixelPop",
+  "version": "0.0.1",
+  "dependencies": {
+      "ember":"*",
+      "underscore":"*",
+      "kinetic":"https://github.com/ericdrowell/KineticJS.git",
+      "ember-rig":"file:///Users/tristanstraub/me/dev/projects/ember-rig/.git" 
+  }
+}

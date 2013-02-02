@@ -1,0 +1,13 @@
+{
+  "author": "Tristan Straub",
+  "name": "PixelPop",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+      "findit":"*",
+      "jade":"*",
+      "pty.js":"~0.1.2",
+      "grunt-jade":"*"
+  }
+}
